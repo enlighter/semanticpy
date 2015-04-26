@@ -1,4 +1,4 @@
-from semanticpy.matrix_formatter import MatrixFormatter
+from ..matrix_formatter import MatrixFormatter
 from scipy import array
 
 class Transform:

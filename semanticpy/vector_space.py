@@ -1,6 +1,6 @@
-from semanticpy.parser import Parser
-from semanticpy.transform.lsa import LSA
-from semanticpy.transform.tfidf import TFIDF
+from parser import Parser
+from transform.lsa import LSA
+from transform.tfidf import TFIDF
 
 import sys
 
